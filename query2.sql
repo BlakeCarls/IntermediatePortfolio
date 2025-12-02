@@ -1,1 +1,0 @@
--- Write your queries to insert data here
